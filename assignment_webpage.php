@@ -4,19 +4,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta charset="utf-8" />
     <style>
-            * {
+    * {
         box-sizing: border-box;
         margin: 0;
         padding: 0;
     }
     body {
         font-family: Arial, sans-serif;
-        background-color: #f2f2f2;
+        background-color: #f3f3f3;
         padding: 20px;
     }
     form {
         width: 50%;
         margin: auto;
+        background-color: #000000;
         padding: 20px;
         border: 1px solid #ccc;
         border-radius: 5px;
